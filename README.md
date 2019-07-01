@@ -2,7 +2,8 @@
  ======
 
 > 基于Vue.js实现的音乐播放器
-
+ ![image](https://github.com/CoderXWJin/JMusic/blob/master/images/JMusic.png)
+ 
 ## 项目介绍
 
 > [Vue.js非常强大](https://cn.vuejs.org/)
